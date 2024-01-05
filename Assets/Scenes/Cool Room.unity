@@ -7614,7 +7614,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9469e5ef7ce252d48a689ad38d7b5695, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchor: {fileID: 0}
+  anchor: {fileID: 1064892451}
   provider: {fileID: 1313711684}
 --- !u!1 &1336051610
 GameObject:
